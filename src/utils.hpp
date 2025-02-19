@@ -5,6 +5,7 @@
 #ifndef UTILS_H
 #define UTILS_H
 
+int multiplication(int a, int b);
 int subtraction(int a, int b);
 int addition(int a, int b);
 #endif //UTILS_H
