@@ -5,5 +5,5 @@
 #include "utils.hpp"
 
 int main() {
-  std::cout << addition(10, 15) << "Something new";
+  std::cout << addition(10, 15) << " " << multiplication(10, 15) << std::endl;
 }
